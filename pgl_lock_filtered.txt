@@ -1,0 +1,22 @@
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nGetFD
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nLockFile
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nLockFileSegment
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nRelease
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nTryLock
+Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nUnlockFile
+close
+open
+libfile_lock_pgl.so
+FileLock
+Lock Failed:type = %d
+ UnLock Failed:type = %d
+.data.rel.ro
+.rodata
+0000000000000d34 T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nGetFD
+0000000000000a48 T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nLockFile
+0000000000000c5c T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nLockFileSegment
+0000000000000dec T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nRelease
+0000000000000bf0 T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nTryLock
+0000000000000b1c T Java_com_bykv_vk_openvk_preload_geckox_utils_FileLock_nUnlockFile
+                 U close@LIBC
+                 U open@LIBC

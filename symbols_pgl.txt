@@ -1,0 +1,14 @@
+000000000000353c T Java_com_bytedance_sdk_component_pglcrypt_PglCryptUtils_bc
+                 U __cxa_atexit@LIBC
+                 U __cxa_finalize@LIBC
+                 U __errno@LIBC
+                 U __open_2@LIBC
+                 U __read_chk@LIBC
+                 U __stack_chk_fail@LIBC
+                 U calloc@LIBC
+                 U close@LIBC
+                 U free@LIBC
+                 U memset@LIBC
+                 U rand@LIBC
+                 U srand@LIBC
+                 U time@LIBC

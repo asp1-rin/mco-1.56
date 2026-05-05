@@ -1,0 +1,79 @@
+gettimeofday
+getpid
+gettid
+getrlimit
+__android_log_print
+getpagesize
+pthread_getattr_np
+fgets
+liblog.so
+doGetChildCpuTime
+Failed to check runtime address.
+/system/bin/logcat
+_Uaarch64_get_reg
+doSetAlogConfigPath
+doDumpLogcat
+doGetDeviceCpuTime
+doSetAlogLogDirAddr
+[alog] get_log_dir is null
+[alog] flush
+getRegister
+doSetAlogFlushAddr
+doCheckNativeCrash
+getULEB128
+doGetThreadCpuTime
+doGetFDCount
+[xcrash] xc_common_open_crash_log faild path=%s, errno=%d
+getSLEB128
+doGetVMSize
+doGetAppCpuTime
+[FUNNEL]:DUMP_LOGCAT 1
+getTableEntrySize
+doGetCrashHeader
+[alog] write config
+Native crash was detected!
+[xcrash] xc_crash_check_backtrace_valid err
+[FUNNEL]:DUMP_LOGCAT 0
+[alog] file_path is null
+logcat.txt
+getEncodedP
+doGetTotalMemory
+[FUNNEL]:DUMP_ALOG 0
+doGetThreadsCount
+[alog] log dir is null
+CrashLogNative
+CrashCommonLog
+getSavedFloatRegister
+alogDir=%s
+monitor_handler cannot get crash tid
+doGetFreeMemory
+[alog] open %s faild
+logcat
+getSavedRegister
+doGetFdDump
+funnel.tjavastacheader.bthreads.logcat.theap.hpr
+Android (11349228, +pgo, +bolt, +lto, -mlgo, based on r487747e) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362)
+liblog.so
+Android (9352603, based on r450784d1) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6)
+gettimeofday
+__android_log_print
+fgets
+getpagesize
+XzFlags_GetCheckSize
+XzCheck_Init
+XzCheck_Update
+XzCheck_Final
+XzUnpacker_GetExtraSize
+getpid
+gettid
+liblog.so
+_Uaarch64_get_reg
+getRegister
+getULEB128
+getSLEB128
+getTableEntrySize
+getEncodedP
+THREAD: ptrace GETREGSET failed, errno=%d
+getSavedFloatRegister
+getSavedRegister
+Android (11349228, +pgo, +bolt, +lto, -mlgo, based on r487747e) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362)
